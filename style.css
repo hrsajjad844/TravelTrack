@@ -1,0 +1,16 @@
+body
+{
+    font-family: sans-serif;
+}
+.home-banner
+{
+    height: 400px;
+    background-image: url("image/dp.jpg");
+    background-size: cover;
+    background-position: center 40%;
+}
+.stats
+{
+    background-color: #414045;
+    text-shadow: 0 2px 4px #000;
+}

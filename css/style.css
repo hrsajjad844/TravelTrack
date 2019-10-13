@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    font-family: "Calibri";
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+
+.content-1{
+  height: 450px;
+    width: 100%;
+}
+.content-2{
+margin-top: 30px;
+    height: 400px;
+    background-color: white;
+
+}
+.contact-form{
+    background-image: url("../image/9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+.contact-form-3{
+    margin-top: 30px;
+}
+.travel-bac-img{
+    height: 400px !important;
+    width: 100%;
+
+}
+
+.travel-list-header{
+    margin-top: 50px;
+}
+.travel-list-button{
+    margin-top: 50px;
+}
+.member-heading{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.member-img{
+    width: 130px;
+    height: 130px;
+}
+.homepage-footer{
+}
+.about{
+    height: 400px;
+
+}
